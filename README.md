@@ -19,7 +19,9 @@
 
 **Ort:** Verbundzentrale des GBV (VZG), Schulungsraum
 
-**Termine:**
+**Termine:** 
 
-* Frühjahr 2020
+* Montag, 9.3.2020, 10:30-16 Uhr
+
+
 
