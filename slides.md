@@ -45,6 +45,9 @@ author:
 <https://etherpad.wikimedia.org/p/wdglam>
 
 
+## Structured Data on Commons
+
+<https://www.youtube.com/watch?v=lmWmMIuCJVM>
 
 ## Community
 
