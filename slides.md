@@ -6,7 +6,7 @@ author:
 - Jakob Voß
 ...
 
-# Übersicht
+# Organisatorisches
 
 ## Grober Zeitplan und Themen
 
@@ -23,7 +23,9 @@ author:
         * Reasonator
         * Squid
 
-* Showcases
+    * Wikidata-Community
+
+* Showcases <!-- showcases -->
 
 * Inhalte in Wikidata eintragen (Teil 1)
 
@@ -33,21 +35,29 @@ author:
 
 * Inhalte in Wikidata eintragen - Teil 2 (Werkzeuge)
 
-* Wikidata Query Service
+* Wikidata Query Service <!-- query-service.md -->
 
-* Verknüpfung vorhandener Datenbanken mit Wikidata
-
-    * Normdaten-Identifier
-
+* Verknüpfung vorhandener Datenbanken mit Wikidata <!-- linking.md -->
 * Präsentation von Inhalten aus Wikidata
+
+## Austausch von Links und Notizen
+
+<https://etherpad.wikimedia.org/p/wdglam>
+
 
 
 ## Community
 
-* Wikimedia
+* Wikimedia-Movement
 
-* Portale
+* Community portal, Project chat & help pages
 
-* WikiCite
+* WikiProjects
+
+* Wikidata:Events
+
+* [Weekly Status Updates](https://www.wikidata.org/wiki/Wikidata:Status_updates)
+
+* [WikiCite](http://wikicite.org)
 
 * ...
