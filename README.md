@@ -23,5 +23,8 @@
 
 * Montag, 9.3.2020, 10:30-16 Uhr
 
+**Handouts:**
 
+* [WIKIDATA kurzgefasst](https://commons.wikimedia.org/wiki/File:Wikidata-kurzgefasst.pdf)
+* [WIKIDATA Query Service kurzgefasst](https://commons.wikimedia.org/wiki/File:Wikidata_Query_Service_kurzgefasst.pdf)
 
