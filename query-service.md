@@ -1,3 +1,11 @@
+---
+title: Wikidata für Kultureinrichtungen
+subtitle: Wikidata abfragen
+language: de
+author:
+- Jakob Voß
+...
+
 # Wikidata Query Service
 
 * Übersicht
@@ -22,17 +30,43 @@
 
 * Etwas zeitverzögert
 
-## Beispiele zur Inspiration
+## Einige Beispiele zur Inspiration
 
-...
+* Query-Service Beispiel-Verzeichnis
+
+## Theorie der Abfragen
+
+* Abfrage liefert Teilmenge des Wikidata-Graph
+
+* Einfache Aussagen ("truthy statements")
+
+* Statements mit Qualifiern und/oder Quellenangaben
+
+## Komplexere Abfragen
+
+* Größte Städte der Welt (nach Einwohnerzahl)
+
+* Älteste Städte der Welt
+
+* Freibäder im Landkreis Göttingen
+
+* Bibliotheken in China
+
+* Bibliotheksdirektorinnen
+
+* ...
+
+*Aufgabe: Abfragen erstellen!*
+
 
 ## Aufgabe: Interessante Abfragen
 
 * 4 Gruppen á 3-4 Personen
 
-* Ideen für Abfragen
+* Erste Runde: Ideen für Abfragen sammeln, die für (Ihre) Kultureinrichtungen
+  interessant sein könnten
 
-* Abfragen erstellen oder anpassen
+* Zweite Runde: Abfragen gemeinsam erstellen oder anpassen
 
 * Ergebnisse sammeln im Etherpad <https://etherpad.wikimedia.org/p/wdglam>
 

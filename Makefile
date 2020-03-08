@@ -1,6 +1,7 @@
 .SUFFIXES: .md .pdf
 
 default: slides.pdf
+all: intro.pdf showcases.pdf query-service.pdf linking.pdf
 
 DATE=2020-03-09
 
